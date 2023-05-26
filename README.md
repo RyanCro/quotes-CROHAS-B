@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: ANAGNOSTIDES Gautier Group B 
 
 ## Fork urls
-- `contributor-1`: [quotes-Baptiste-b](url-1)
-- `contributor-2`: [quotes-Hadile-b](url-2)
-- `contributor-3`: [quotes-Gautier-b](url-3)
+- `contributor-1`: [quotes-Baptiste-b](https://github.com/BaptisteGrimbaum/quotes-Baptiste-B.git)
+- `contributor-2`: [quotes-Hadile-b](https://github.com/HadileK/quotes-Hadile-B.git)
+- `contributor-3`: [quotes-Gautier-b](https://github.com/x9lux/quotes-Gautier-B.git)
